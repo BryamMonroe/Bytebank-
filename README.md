@@ -1,4 +1,5 @@
-# Bytebank-
+# Bytebank
+
 
 New project using TypeScript to create a virtual database
 The project was created to intensify TypeScript practices, such as code refactoring, modularization, compilation, and others.
